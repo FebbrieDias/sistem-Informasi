@@ -1,0 +1,1 @@
+<?php include('../admin/laporan_print.php') ?>
